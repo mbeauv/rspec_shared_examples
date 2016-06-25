@@ -7,7 +7,7 @@ require 'rspec_shared_examples/version'
 Gem::Specification.new do |spec|
   
   spec.name          = "rspec_shared_examples"
-  spec.version       = RspecUtils::VERSION
+  spec.version       = RSpecSharedExamples::VERSION
   spec.authors       = ["Martin Beauvais"]
   spec.email         = ["mbeauv@gmail.com"]
 
